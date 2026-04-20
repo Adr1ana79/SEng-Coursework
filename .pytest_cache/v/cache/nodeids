@@ -1,0 +1,11 @@
+[
+  "tests/test_appointments.py::test_cancel_appointment_fails_if_less_than_12_hours_before",
+  "tests/test_appointments.py::test_cancel_appointment_success",
+  "tests/test_appointments.py::test_create_appointment_fails_if_inside_break",
+  "tests/test_appointments.py::test_create_appointment_fails_if_less_than_24_hours_before",
+  "tests/test_appointments.py::test_create_appointment_fails_when_overlapping",
+  "tests/test_appointments.py::test_create_appointment_success",
+  "tests/test_auth.py::test_register_doctor_and_login",
+  "tests/test_auth.py::test_register_patient",
+  "tests/test_working_hours.py::test_doctor_can_set_working_hours"
+]
